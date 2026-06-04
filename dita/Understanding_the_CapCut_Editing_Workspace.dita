@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'concept.dtd'>
+<concept id="concept-3037" xml:lang="en-us" class="- topic/topic concept/concept ">
+  <title class="- topic/title ">
+    <?ezd-review-start 3928322f-d698-47a7-8ac1-c4fc2ec4bcf5:comment:jachin@ucdavis.edu:1779214897004?>
+    Understanding the CapCut Editing Workspace
+    <?ezd-review-end 3928322f-d698-47a7-8ac1-c4fc2ec4bcf5?>
+  </title>
+  <shortdesc class="- topic/shortdesc ">Learn about the main tools and sections of the CapCut editing workspace. Understanding how the workspace is organized can help beginner users edit videos more confidently and efficiently.</shortdesc>
+  <prolog class="- topic/prolog ">
+    <author translate="no" type="creator" class="- topic/author ">Jivesh Patel &lt;jippatel@ucdavis.edu&gt;</author>
+    <metadata class="- topic/metadata ">
+      <keywords class="- topic/keywords "/>
+    </metadata>
+  </prolog>
+  <conbody class="- topic/body  concept/conbody ">
+    <p class="- topic/p ">The CapCut editing workspace contains several tools that help users organize, edit, and improve videos. While the number of buttons and features may seem overwhelming at first, understanding the purpose of the main sections can make the editing process easier. This topic introduces the most important parts of the workspace that beginner users will use most often.</p>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Preview Window</title>
+      <p class="- topic/p ">The preview window displays how a video currently looks while editing. Users can watch clips, check transitions, preview text placement, and review audio timing before exporting a final video. The preview window helps users identify mistakes and make changes before publishing content.</p>
+      <p class="- topic/p ">
+        <fig class="- topic/fig ">
+          <title class="- topic/title ">The preview window displays how edits appear in real time.</title>
+          <image href="Images/Screenshot_2026-05-18_at_1.33.55PM.png" class="- topic/image "/>
+        </fig>
+      </p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Timeline</title>
+      <p class="- topic/p ">The timeline is the main editing area where video clips are arranged and adjusted. Clips appear in the order they will play, allowing users to organize footage and control the flow of a video. Many editing actions, such as trimming clips or adding transitions, happen within the timeline.</p>
+      <p class="- topic/p ">
+        <fig class="- topic/fig ">
+          <title class="- topic/title ">The timeline is used to organize and edit clips.</title>
+          <image href="Images/Screenshot_2026-05-18_at_1.10.01PM.png" class="- topic/image "/>
+        </fig>
+      </p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Toolbar</title>
+      <p class="- topic/p ">The toolbar contains editing options that allow users to customize videos. Depending on the selected clip, users may see tools for trimming, speed adjustments, filters, transitions, effects, or audio editing. These tools help improve the appearance and pacing of videos.</p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Text Tools</title>
+      <p class="- topic/p ">Text tools allow users to add titles, captions, subtitles, and other written content to videos. Text can be customized through font style, size, color, and placement. Many social media creators use text to emphasize important information or improve accessibility for viewers watching videos without sound.</p>
+      <p class="- topic/p ">
+        <fig class="- topic/fig ">
+          <title class="- topic/title ">
+            <?ezd-review-start b8637fbc-a465-438b-b31f-38ab268974d4:comment:jachin@ucdavis.edu:1779214747381?>
+            <?ezd-review-end b8637fbc-a465-438b-b31f-38ab268974d4?>
+            The text tools menu allows users to customize captions and titles.
+          </title>
+          <image href="Images/Screenshot_2026-05-18_at_1.39.04PM.png" class="- topic/image "/>
+        </fig>
+      </p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Audio Tools</title>
+      <p class="- topic/p ">Audio tools allow users to add music, sound effects, voiceovers, and recorded sounds to videos. Audio can affect the mood, pacing, and engagement of content. Users can also adjust volume levels to balance background music with spoken audio.</p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Transitions and Effects</title>
+      <p class="- topic/p ">Transitions and effects help improve the appearance and flow of videos. Transitions create smoother movement between clips, while effects add visual enhancements such as filters, animations, or motion effects. While these features can improve a video, using too many may distract viewers.</p>
+      <p class="- topic/p ">
+        <fig class="- topic/fig ">
+          <title class="- topic/title ">Examples of transition styles available in Capcut</title>
+          <image href="Images/Screenshot_2026-05-18_at_1.20.55PM.png" class="- topic/image "/>
+        </fig>
+      </p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Export Button</title>
+      <p class="- topic/p ">The export button on the top right of the screen allows users to save their completed video to their device. Before exporting, users can choose settings such as resolution and frame rate. Selecting appropriate settings can help improve video quality for platforms such as TikTok and Instagram.</p>
+    </section>
+  </conbody>
+  <related-links class="- topic/related-links ">
+    <link href="Basic_Video_Editing_Concepts_for_Beginners.dita" class="- topic/link "/>
+    <link href="How_to_Download_CapCut_and_Start_a_New_Project.dita" class="- topic/link "/>
+    <link href="How_to_Import_and_Arrange_Video_Clips.dita" class="- topic/link "/>
+    <link href="CapCut_Terms_Icons_and_Recommended_Export_Settings.dita" class="- topic/link "/>
+  </related-links>
+</concept>

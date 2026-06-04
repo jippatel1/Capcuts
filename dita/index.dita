@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<!DOCTYPE topic
+  PUBLIC '-//OASIS//DTD DITA Topic//EN'
+  'topic.dtd'>
+<topic id="topic-9003" xml:lang="en-us" class="- topic/topic ">
+  <title class="- topic/title ">How to Use This Guide to Edit Videos in CapCut</title>
+  <shortdesc class="- topic/shortdesc "> This is a  beginner-friendly guide that explains how to create short social media videos using CapCut on an iPhone. These instructions are designed for college students with little to no editing experience.</shortdesc>
+  <body class="- topic/body ">
+    <section class="- topic/section ">
+      <title class="- topic/title ">Purpose of This Guide</title>
+      <p class="- topic/p ">This guide teaches beginner users how to create social media videos in CapCut through a series of step-by-step topics. Users will learn how to create a project, organize clips, add text and music, apply transitions, and export videos for social media platforms like TikTok or Instagram.</p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Who This Guide Is for</title>
+      <p class="- topic/p ">• Beginner college students with little or no editing experience </p>
+      <p class="- topic/p ">• Users creating content for TikTok or Instagram Reels </p>
+      <p class="- topic/p ">• Student organizations creating promotional content </p>
+      <p class="- topic/p ">• Intermediate users who want a quick review of editing basics</p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">What You Will Need</title>
+      <p class="- topic/p ">• iPhone or iPad </p>
+      <p class="- topic/p "> 
+• CapCut app installed </p>
+      <p class="- topic/p "> 
+• Video clips or photos </p>
+      <p class="- topic/p "> 
+• Internet connection (recommended)</p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Estimated Time</title>
+      <table class="- topic/table ">
+        <tgroup cols="2" class="- topic/tgroup ">
+          <colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec "/>
+          <colspec colname="c2" colnum="2" colwidth="1*" class="- topic/colspec "/>
+          <tbody class="- topic/tbody ">
+            <row class="- topic/row ">
+              <entry class="- topic/entry ">Task</entry>
+              <entry class="- topic/entry ">Time</entry>
+            </row>
+            <row class="- topic/row ">
+              <entry class="- topic/entry ">Starting a Project</entry>
+              <entry class="- topic/entry ">1-2 minutes</entry>
+            </row>
+            <row class="- topic/row ">
+              <entry class="- topic/entry ">Editing clips</entry>
+              <entry class="- topic/entry ">5-10 minutes</entry>
+            </row>
+            <row class="- topic/row ">
+              <entry class="- topic/entry ">Adding Text/Music</entry>
+              <entry class="- topic/entry ">5-10 minutes</entry>
+            </row>
+            <row class="- topic/row ">
+              <entry class="- topic/entry ">Exporting</entry>
+              <entry class="- topic/entry ">2-3 minutes</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p class="- topic/p "/>
+      .
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">How to Use This Guide</title>
+      <p class="- topic/p ">
+        <b class="+ topic/ph hi-d/b ">1. What Is CapCut and Why Use It for Social Media Editing?</b>
+      </p>
+      <p class="- topic/p ">
+        <b class="+ topic/ph hi-d/b ">2. Understanding the CapCut Editing Workspace</b>
+      </p>
+      <p class="- topic/p ">
+        <b class="+ topic/ph hi-d/b ">3. Basic Video Editing Concepts for Beginners</b>
+      </p>
+      <p class="- topic/p ">
+        <b class="+ topic/ph hi-d/b ">4. How to Download CapCut and Create a New Project</b>
+      </p>
+      <p class="- topic/p ">
+        <b class="+ topic/ph hi-d/b ">5. How to Import and Arrange Video Clips</b>
+      </p>
+      <p class="- topic/p ">
+        <b class="+ topic/ph hi-d/b ">6. How to Add Text, Music, and Sound Effects to a Video</b>
+      </p>
+      <p class="- topic/p ">
+        <b class="+ topic/ph hi-d/b ">7. How to Add Transitions and Effects</b>
+      </p>
+      <p class="- topic/p ">
+        <b class="+ topic/ph hi-d/b ">8. How to Export a Video for TikTok or Instagram</b>
+      </p>
+      <p class="- topic/p ">
+        <b class="+ topic/ph hi-d/b ">9. CapCut Terms, Icons, and Recommended Export Settings</b>
+      </p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Common Problems</title>
+      <p class="- topic/p ">• If CapCut cannot access photos, check app permissions. </p>
+      <p class="- topic/p ">• If the app freezes, restart CapCut. </p>
+      <p class="- topic/p ">• If exporting fails, check storage space.</p>
+    </section>
+  </body>
+  <related-links class="- topic/related-links ">
+    <link href="Understanding_the_CapCut_Editing_Workspace.dita" class="- topic/link "/>
+    <link href="Basic_Video_Editing_Concepts_for_Beginners.dita" class="- topic/link "/>
+    <link href="CapCut_Terms_Icons_and_Recommended_Export_Settings.dita" class="- topic/link "/>
+  </related-links>
+</topic>

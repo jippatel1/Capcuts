@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'task.dtd'>
+<task id="task-1558" class="- topic/topic task/task ">
+  <title class="- topic/title ">How to Import, Arrange, and Trim Video Clips</title>
+  <shortdesc class="- topic/shortdesc ">Learn how to import video clips into CapCut, organize them in the timeline, and trim unwanted footage. Completing this task will help you create a smoother and more organized video.</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <prereq class="- topic/section task/prereq ">Before starting this task, complete How to Download CapCut and Create a New Project and make sure a project is open in CapCut.</prereq>
+    <context class="- topic/section task/context ">Organizing clips is one of the first steps in creating a polished video. Arranging clips in a logical order and trimming unnecessary footage can improve pacing and make videos easier for viewers to follow.</context>
+    <steps class="- topic/ol task/steps ">
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Open your CapCut project.</cmd>
+        <stepresult class="- topic/itemgroup task/stepresult ">The editing timeline appears.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap Add Clip if you want to import additional videos or photos.</cmd>
+        <info class="- topic/itemgroup task/info ">Users can import multiple videos and images into the same project.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The photo and video library opens.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Select the clips or photos you want to include in your video.</cmd>
+        <info class="- topic/itemgroup task/info ">Choose clips in the order you want them to appear whenever possible.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">Selected clips are highlighted.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap Add to place the selected clips into the timeline.</cmd>
+        <stepresult class="- topic/itemgroup task/stepresult ">The clips appear in the editing timeline.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Press and drag a clip to rearrange its position in the timeline.</cmd>
+        <info class="- topic/itemgroup task/info ">The order of clips determines the sequence viewers will see in the final video.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The clip moves to a new location in the timeline.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap a clip to select it.</cmd>
+        <stepresult class="- topic/itemgroup task/stepresult ">Editing options appear in the toolbar.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Drag the edges of a selected clip inward to trim unwanted footage.</cmd>
+        <info class="- topic/itemgroup task/info ">Trimming shortens a clip by removing unnecessary sections at the beginning or end.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The clip becomes shorter in the timeline.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap Play to preview the arrangement of your clips.</cmd>
+        <info class="- topic/itemgroup task/info ">Previewing helps identify clips that need to be rearranged or trimmed further.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The edited sequence plays in the preview window.</stepresult>
+      </step>
+    </steps>
+    <result class="- topic/section task/result ">You have successfully imported, organized, and trimmed video clips in CapCut. Your project is now prepared for adding text, captions, music, or transitions.</result>
+    <postreq class="- topic/section task/postreq ">Continue to How to Add Text and Captions to a Video or How to Add Music, Audio, and Sound Effects.</postreq>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link href="Basic_Video_Editing_Concepts_for_Beginners.dita" class="- topic/link "/>
+    <link href="Understanding_the_CapCut_Editing_Workspace.dita" class="- topic/link "/>
+    <link href="How_to_Download_CapCut_and_Start_a_New_Project.dita" class="- topic/link "/>
+    <link href="How_to_Add_Text_Music_and_Audio_to_a_Video.dita" class="- topic/link "/>
+  </related-links>
+</task>

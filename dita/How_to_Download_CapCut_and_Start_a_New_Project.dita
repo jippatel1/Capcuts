@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'task.dtd'>
+<task id="task-5775" class="- topic/topic task/task ">
+  <title class="- topic/title ">How to Download CapCut and Start a New Project</title>
+  <shortdesc class="- topic/shortdesc ">Learn how to download CapCut and create your first editing project. Completing this task will prepare you to begin editing videos for social media.</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <prereq class="- topic/section task/prereq ">
+      <?ezd-review-start f4a30064-334c-4aab-8b0a-bc782535c953:comment:sglindain@ucdavis.edu:1779214504027?>
+      Before starting
+      <?ezd-review-end f4a30064-334c-4aab-8b0a-bc782535c953?>
+      , 
+      <?ezd-review-start c93eca0a-3048-4a57-a0aa-f0d0c77e37f0:comment:jachin@ucdavis.edu:1779215017159?>
+      make sure you have an iPhone or iPad with internet access and enough storage space to install applications.
+      <?ezd-review-end c93eca0a-3048-4a57-a0aa-f0d0c77e37f0?>
+    </prereq>
+    <context class="- topic/section task/context ">Before editing videos in CapCut, users must first download the application and create a project. Creating a project allows users to import video clips and begin organizing footage for editing.</context>
+    <steps class="- topic/ol task/steps ">
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Open the App Store on your iPhone or iPad.</cmd>
+        <info class="- topic/itemgroup task/info ">The App Store icon is usually located on the home screen.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The App Store home page appears.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Search for &quot;CapCut&quot; using the search bar.</cmd>
+        <info class="- topic/itemgroup task/info ">
+          <?ezd-review-start 9e3013ec-8193-4138-9d48-0a16bcc83283:comment:jachin@ucdavis.edu:1779215161199?>
+          Make sure to select the official CapCut application
+          <?ezd-review-end 9e3013ec-8193-4138-9d48-0a16bcc83283?>
+          .
+        </info>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap Get or Download to install the application.</cmd>
+        <info class="- topic/itemgroup task/info ">The app may require Face ID, Touch ID, or an Apple ID password before downloading.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">CapCut downloads and appears on your device home screen.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Open the CapCut application.</cmd>
+        <info class="- topic/itemgroup task/info ">When opening the app for the first time, CapCut may request access to photos and videos.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">
+          <?ezd-review-start a55f2666-1be9-48b1-9592-8082ba1f6ef4:comment:jachin@ucdavis.edu:1779215250806?>
+          The CapCut home screen appears.
+          <?ezd-review-end a55f2666-1be9-48b1-9592-8082ba1f6ef4?>
+        </stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap New Project.</cmd>
+        <info class="- topic/itemgroup task/info ">This option starts a new editing project and allows you to select media files.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The photo and video library opens.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Select the video clips or photos you want to edit.</cmd>
+        <info class="- topic/itemgroup task/info ">Choose clips in the order you want them to appear in your video.</info>
+        <choices class="- topic/ul task/choices ">
+          <choice class="- topic/li task/choice ">• Select videos for short-form content.</choice>
+          <choice class="- topic/li task/choice ">• Select photos if creating a slideshow-style video.</choice>
+        </choices>
+        <stepresult class="- topic/itemgroup task/stepresult ">Selected clips are highlighted.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap Add.</cmd>
+        <stepresult class="- topic/itemgroup task/stepresult ">Your clips appear in the editing timeline and the project is ready for editing.</stepresult>
+      </step>
+    </steps>
+    <result class="- topic/section task/result ">You have successfully downloaded CapCut and created a new editing project. Your media is now ready to be arranged and edited.</result>
+    <postreq class="- topic/section task/postreq ">Continue to How to Import, Arrange, and Trim Video Clips to begin organizing your footage.</postreq>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link href="What_Is_CapCut_and_Why_Use_It_for_Social_Media_Editing.dita" class="- topic/link "/>
+    <link href="Understanding_the_CapCut_Editing_Workspace.dita" class="- topic/link "/>
+    <link href="How_to_Import_and_Arrange_Video_Clips.dita" class="- topic/link "/>
+  </related-links>
+</task>

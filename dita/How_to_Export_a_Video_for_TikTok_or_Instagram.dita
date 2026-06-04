@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'task.dtd'>
+<task id="task-6904" class="- topic/topic task/task ">
+  <title class="- topic/title ">
+    <?ezd-review-start 0fde003e-1105-4c7a-9723-b5003c88862b:comment:jachin@ucdavis.edu:1779215329447?>
+    How to Export a Video for TikTok or Instagram
+    <?ezd-review-end 0fde003e-1105-4c7a-9723-b5003c88862b?>
+  </title>
+  <shortdesc class="- topic/shortdesc ">Learn how to export your completed video using settings that work well for TikTok and Instagram. Exporting your video correctly helps maintain video quality and ensures it displays properly on social media platforms.</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <prereq class="- topic/section task/prereq ">Before starting this task, complete all editing tasks and review your project to make sure it is ready for publishing.</prereq>
+    <context class="- topic/section task/context ">Exporting converts your project into a finished video file that can be shared on social media. Choosing the appropriate export settings helps maintain video quality and ensures your content displays correctly on TikTok and Instagram.</context>
+    <steps class="- topic/ol task/steps ">
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Open your completed CapCut project.</cmd>
+        <info class="- topic/itemgroup task/info ">Review your video one final time before exporting.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The completed project appears in the editing workspace.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap the Export button in the upper-right corner of the screen.</cmd>
+        <info class="- topic/itemgroup task/info ">The Export button is represented by an upward arrow icon.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The export settings screen appears.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Select a resolution of 1080p.</cmd>
+        <info class="- topic/itemgroup task/info ">A resolution of 1080p provides high-quality video while remaining compatible with most social media platforms.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The export resolution is updated.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Select a frame rate of 30 frames per second (fps).</cmd>
+        <info class="- topic/itemgroup task/info ">Thirty fps provides smooth playback and is commonly used for TikTok and Instagram videos.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The frame rate is updated.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Verify that your video uses a vertical 9:16 aspect ratio.</cmd>
+        <info class="- topic/itemgroup task/info ">TikTok and Instagram Reels are optimized for vertical videos.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The video is ready for mobile viewing.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Tap Export.</cmd>
+        <info class="- topic/itemgroup task/info ">Exporting may take several seconds depending on video length and device performance.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">CapCut begins processing the video.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Wait for the export process to finish.</cmd>
+        <info class="- topic/itemgroup task/info ">Avoid closing the application while exporting.</info>
+        <stepresult class="- topic/itemgroup task/stepresult ">The video is saved to your device.</stepresult>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Select TikTok or Instagram if you want to share the video immediately.</cmd>
+        <choices class="- topic/ul task/choices ">
+          <choice class="- topic/li task/choice ">Tap TikTok to upload directly to TikTok.</choice>
+          <choice class="- topic/li task/choice ">Tap Instagram to upload to Instagram Reels.</choice>
+          <choice class="- topic/li task/choice ">Close the sharing screen if you plan to post later.</choice>
+        </choices>
+        <stepresult class="- topic/itemgroup task/stepresult ">The selected social media application opens.</stepresult>
+      </step>
+    </steps>
+    <result class="- topic/section task/result ">You have successfully exported your video from CapCut. Your video is now saved to your device and ready to be shared on TikTok, Instagram, or other social media platforms.</result>
+    <postreq class="- topic/section task/postreq ">Your video is ready to be uploaded to TikTok, Instagram Reels, or other social media platforms.</postreq>
+  </taskbody>
+  <related-links class="- topic/related-links ">
+    <link href="How_to_Add_Text_Music_and_Audio_to_a_Video.dita" class="- topic/link "/>
+    <link href="How_to_Add_Transitions_and_Effects.dita" class="- topic/link "/>
+    <link href="CapCut_Terms_Icons_and_Recommended_Export_Settings.dita" class="- topic/link "/>
+  </related-links>
+</task>
