@@ -4,7 +4,7 @@
   'map.dtd'>
 <map id="ditamap-6001" class="- map/map ">
   <title class="- topic/title ">Beginner’s Guide to Editing Social Media Videos in CapCut</title>
-  <topicref href=“index.dita" class="- map/topicref “/>
+<topicref href=“index.dita" class="- map/topicref “/>
   <topicref href="What_Is_CapCut_and_Why_Use_It_for_Social_Media_Editing.dita" class="- map/topicref "/>
   <topicref href="Understanding_the_CapCut_Editing_Workspace.dita" class="- map/topicref "/>
   <topicref href="Basic_Video_Editing_Concepts_for_Beginners.dita" class="- map/topicref "/>
