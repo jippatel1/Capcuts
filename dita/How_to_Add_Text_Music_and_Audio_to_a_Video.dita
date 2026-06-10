@@ -1,72 +1,24 @@
 <?xml version="1.0" ?>
-<!DOCTYPE task
-  PUBLIC '-//OASIS//DTD DITA Task//EN'
-  'task.dtd'>
-<task id="task-3157" class="- topic/topic task/task ">
+<!DOCTYPE topic
+  PUBLIC '-//OASIS//DTD DITA Topic//EN'
+  'topic.dtd'>
+<topic id="topic-1007" xml:lang="en-us" class="- topic/topic ">
   <title class="- topic/title ">How to Add Text, Music, and Audio to a Video</title>
-  <shortdesc class="- topic/shortdesc ">Learn how to add text, music, and audio to improve the appearance and engagement of your video. Completing this task will help make your content clearer and more visually appealing for social media.</shortdesc>
-  <taskbody class="- topic/body task/taskbody ">
-    <prereq class="- topic/section task/prereq ">Before starting this task, complete How to Import, Arrange, and Trim Video Clips and make sure your project is open in CapCut.</prereq>
-    <context class="- topic/section task/context ">Adding text and audio can improve communication, pacing, and engagement in short-form videos. Text helps explain information or emphasize important points, while music and sound effects can influence the mood and energy of a video.</context>
-    <steps class="- topic/ol task/steps ">
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap Text in the toolbar at the bottom of the screen.</cmd>
-        <stepresult class="- topic/itemgroup task/stepresult ">The text menu appears.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap Add Text.</cmd>
-        <stepresult class="- topic/itemgroup task/stepresult ">A text box appears on the screen.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Type the text you want displayed in your video.</cmd>
-        <info class="- topic/itemgroup task/info ">Keep captions short and readable for social media viewers.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The text appears in the preview window.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Adjust the font, size, color, and position of the text.</cmd>
-        <info class="- topic/itemgroup task/info ">Choose fonts and colors that are easy to read against your video background.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The customized text appears in your project.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap Audio in the toolbar.</cmd>
-        <stepresult class="- topic/itemgroup task/stepresult ">The audio menu opens.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Select Sounds to browse music options.</cmd>
-        <choices class="- topic/ul task/choices ">
-          <choice class="- topic/li task/choice ">• Trending music for social media content</choice>
-          <choice class="- topic/li task/choice ">• Instrumental music for informational videos</choice>
-          <choice class="- topic/li task/choice ">• Sound effects for transitions or emphasis</choice>
-        </choices>
-        <stepresult class="- topic/itemgroup task/stepresult ">Available music and sounds appear.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap a sound or song to preview it.</cmd>
-        <info class="- topic/itemgroup task/info ">Choose audio that matches the tone and pacing of your video.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The selected audio preview plays.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap Add to insert the audio into your project.</cmd>
-        <stepresult class="- topic/itemgroup task/stepresult ">The audio appears beneath the video timeline.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Adjust the length or position of the audio track if needed.</cmd>
-        <info class="- topic/itemgroup task/info ">Audio can be shortened or moved to better match the timing of clips.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The audio aligns with your video clips.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap Play to preview the video with text and audio.</cmd>
-        <info class="- topic/itemgroup task/info ">Previewing helps check whether captions are readable and audio timing feels natural.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The edited video plays in the preview window.</stepresult>
-      </step>
-    </steps>
-    <result class="- topic/section task/result ">You have successfully added text, music, and audio to your video. Your project now includes captions and sound that improve clarity and viewer engagement.</result>
-    <postreq class="- topic/section task/postreq ">Continue to How to Add Transitions and Export a Video for Social Media.</postreq>
-  </taskbody>
-  <related-links class="- topic/related-links ">
-    <link href="Basic_Video_Editing_Concepts_for_Beginners.dita" class="- topic/link "/>
-    <link href="Understanding_the_CapCut_Editing_Workspace.dita" class="- topic/link "/>
-    <link href="How_to_Import_and_Arrange_Video_Clips.dita" class="- topic/link "/>
-    <link href="How_to_Add_Transitions_and_Effects.dita" class="- topic/link "/>
-  </related-links>
-</task>
+  <shortdesc class="- topic/shortdesc ">Enhance your video with text overlays, background music, and sound effects.</shortdesc>
+  <body class="- topic/body ">
+    <section class="- topic/section ">
+      <title class="- topic/title ">Add Text</title>
+      <p class="- topic/p ">1. Tap the "Text" button in the toolbar.</p>
+      <p class="- topic/p ">2. Choose a text style or template.</p>
+      <p class="- topic/p ">3. Enter your text and customize the appearance.</p>
+      <p class="- topic/p ">4. Tap outside to confirm.</p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Add Music</title>
+      <p class="- topic/p ">1. Tap the "Music" button.</p>
+      <p class="- topic/p ">2. Browse the free music library or upload your own.</p>
+      <p class="- topic/p ">3. Select a track and tap "Add."</p>
+      <p class="- topic/p ">4. Adjust volume in the audio track settings.</p>
+    </section>
+  </body>
+</topic>

@@ -1,61 +1,18 @@
 <?xml version="1.0" ?>
-<!DOCTYPE concept
-  PUBLIC '-//OASIS//DTD DITA Concept//EN'
-  'concept.dtd'>
-<concept id="concept-8963" xml:lang="en-us" class="- topic/topic concept/concept ">
+<!DOCTYPE topic
+  PUBLIC '-//OASIS//DTD DITA Topic//EN'
+  'topic.dtd'>
+<topic id="topic-1003" xml:lang="en-us" class="- topic/topic ">
   <title class="- topic/title ">Basic Video Editing Concepts for Beginners</title>
-  <shortdesc class="- topic/shortdesc ">Learn the basic editing concepts used in Capcut before creating a video. Understanding these terms and ideas will help make the editing process easier and less overwhelming.</shortdesc>
-  <prolog class="- topic/prolog ">
-    <author translate="no" type="creator" class="- topic/author ">Jivesh Patel &lt;jippatel@ucdavis.edu&gt;</author>
-    <metadata class="- topic/metadata ">
-      <keywords class="- topic/keywords "/>
-    </metadata>
-  </prolog>
-  <conbody class="- topic/body  concept/conbody ">
-    <p class="- topic/p ">Before editing a video in CapCut, it is helpful to understand a few basic editing concepts. These concepts explain how videos are organized, adjusted, and improved during editing. Understanding these ideas can help beginner users feel more confident and avoid confusion while using editing tools.</p>
-    <p class="- topic/p "/>
+  <shortdesc class="- topic/shortdesc ">Master fundamental video editing concepts before you start creating.</shortdesc>
+  <body class="- topic/body ">
     <section class="- topic/section ">
-      <title class="- topic/title ">Timeline</title>
-      <p class="- topic/p ">The timeline is the main area where video clips are organized and edited. Clips appear in the order they will play, allowing users to move, trim, and edit sections of a video. Understanding the timeline is important because most editing actions in CapCut happen there.</p>
-      <p class="- topic/p ">
-        <fig class="- topic/fig ">
-          <title class="- topic/title ">Example of the Capcut timeline used to organize video clips.</title>
-          <image href="Images/Screenshot_2026-05-18_at_1.10.01PM.png" class="- topic/image "/>
-        </fig>
-      </p>
+      <title class="- topic/title ">Key Concepts</title>
+      <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Clips:</b> Individual video segments or photos you import into your project.</p>
+      <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Timeline:</b> The sequence where you arrange and edit all your clips.</p>
+      <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Trim:</b> Cutting out unwanted parts of a video clip.</p>
+      <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Transitions:</b> Effects that smoothly connect one clip to another.</p>
+      <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Keyframe:</b> A marker that defines the start or end of an animation or effect.</p>
     </section>
-    <section class="- topic/section ">
-      <title class="- topic/title ">Trimming and Splitting Clips</title>
-      <p class="- topic/p ">Trimming and splitting are two common ways to adjust video clips. Trimming removes unwanted portions from the beginning or end of a clip to shorten it. Splitting divides one clip into multiple sections, making it easier to rearrange clips or remove specific moments. These tools help improve pacing and remove unnecessary footage.</p>
-      <p class="- topic/p "/>
-    </section>
-    <section class="- topic/section ">
-      <title class="- topic/title ">Transitions</title>
-      <p class="- topic/p ">Transitions are effects placed between clips to create smoother movement from one scene to another. Instead of clips changing suddenly, transitions can create fading, sliding, or zooming effects. While transitions can improve the flow of a video, using too many may make a video look distracting.</p>
-      <p class="- topic/p ">
-        <fig class="- topic/fig ">
-          <title class="- topic/title ">Examples of transition styles available in CapCut.</title>
-          <image href="Images/Screenshot_2026-05-18_at_1.20.55PM.png" class="- topic/image "/>
-        </fig>
-      </p>
-    </section>
-    <section class="- topic/section ">
-      <title class="- topic/title ">Text and Captions</title>
-      <p class="- topic/p ">Text and captions are often used to add context, titles, or subtitles to videos. Creators may use text to explain information, emphasize important points, or improve accessibility for viewers who watch videos without sound. Choosing readable fonts and keeping text simple can make videos easier to understand.</p>
-    </section>
-    <section class="- topic/section ">
-      <title class="- topic/title ">Audio and Music</title>
-      <p class="- topic/p ">Music and sound effects help make videos more engaging and can influence the mood of a video. Audio should match the purpose and pacing of the content. For example, fast music may fit energetic videos, while slower music may work better for relaxed or emotional content. Audio levels should also be balanced so music does not overpower speech or captions.</p>
-    </section>
-    <section class="- topic/section ">
-      <title class="- topic/title ">Pacing</title>
-      <p class="- topic/p ">Pacing refers to how quickly or slowly a video moves between clips and ideas. Faster pacing is commonly used for energetic or entertaining content, while slower pacing may work better for storytelling or informational videos. Short-form social media videos often use quicker pacing to keep viewers engaged.</p>
-    </section>
-  </conbody>
-  <related-links class="- topic/related-links ">
-    <link href="Understanding_the_CapCut_Editing_Workspace.dita" class="- topic/link "/>
-    <link href="How_to_Import_and_Arrange_Video_Clips.dita" class="- topic/link "/>
-    <link href="How_to_Add_Text_Music_and_Audio_to_a_Video.dita" class="- topic/link "/>
-    <link href="How_to_Add_Transitions_and_Effects.dita" class="- topic/link "/>
-  </related-links>
-</concept>
+  </body>
+</topic>

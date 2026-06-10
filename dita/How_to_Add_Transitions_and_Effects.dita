@@ -1,77 +1,23 @@
 <?xml version="1.0" ?>
-<!DOCTYPE task
-  PUBLIC '-//OASIS//DTD DITA Task//EN'
-  'task.dtd'>
-<task id="task-7978" class="- topic/topic task/task ">
+<!DOCTYPE topic
+  PUBLIC '-//OASIS//DTD DITA Topic//EN'
+  'topic.dtd'>
+<topic id="topic-1008" xml:lang="en-us" class="- topic/topic ">
   <title class="- topic/title ">How to Add Transitions and Effects</title>
-  <shortdesc class="- topic/shortdesc ">Learn how to add transitions and effects in CapCut to create smoother scene changes and improve the visual appearance of your video.</shortdesc>
-  <taskbody class="- topic/body task/taskbody ">
-    <prereq class="- topic/section task/prereq ">Before starting this task, complete How to Import, Arrange, and Trim Video Clips. Make sure your project contains at least two clips in the timeline.</prereq>
-    <context class="- topic/section task/context ">Transitions and effects can help make videos more visually appealing and engaging. Transitions create smoother movement between clips, while effects add visual enhancements that can improve the overall style of a video.</context>
-    <steps class="- topic/ol task/steps ">
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Open your CapCut project.</cmd>
-        <stepresult class="- topic/itemgroup task/stepresult ">The project opens in the editing workspace.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Locate the small transition icon between two clips in the timeline.</cmd>
-        <info class="- topic/itemgroup task/info ">A transition can only be added between clips, so your project must contain at least two clips.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The transition icon appears between the selected clips.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap the transition icon.</cmd>
-        <stepresult class="- topic/itemgroup task/stepresult ">The transitions menu opens.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Browse the available transition categories.</cmd>
-        <info class="- topic/itemgroup task/info ">Common categories include basic, camera, slide, and motion transitions.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">Available transition options are displayed.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Select a transition and preview it.</cmd>
-        <info class="- topic/itemgroup task/info ">Previewing allows you to see how the transition will appear before applying it.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The transition preview plays.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap the checkmark to apply the transition.</cmd>
-        <stepresult class="- topic/itemgroup task/stepresult ">The transition is added between the clips.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Adjust the transition duration if necessary.</cmd>
-        <info class="- topic/itemgroup task/info ">Shorter durations often work better for fast-paced social media videos.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The transition timing is updated.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap Effects from the toolbar.</cmd>
-        <stepresult class="- topic/itemgroup task/stepresult ">The effects menu opens.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Select either Video Effects or Body Effects.</cmd>
-        <info class="- topic/itemgroup task/info ">Video Effects modify the appearance of clips, while Body Effects add motion-based enhancements.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">Effect categories appear.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Browse and preview available effects.</cmd>
-        <info class="- topic/itemgroup task/info ">Choose effects that support the purpose of your video rather than distracting from it.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The selected effect preview plays.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Tap the checkmark to apply the effect.</cmd>
-        <stepresult class="- topic/itemgroup task/stepresult ">The effect is added to the video.</stepresult>
-      </step>
-      <step class="- topic/li task/step ">
-        <cmd class="- topic/ph task/cmd ">Preview the video to review the transitions and effects.</cmd>
-        <info class="- topic/itemgroup task/info ">Watch the entire sequence to make sure the edits appear smooth and consistent.</info>
-        <stepresult class="- topic/itemgroup task/stepresult ">The edited video plays in the preview window.</stepresult>
-      </step>
-    </steps>
-    <result class="- topic/section task/result ">You have successfully added transitions and effects to your video. Your project now includes smoother scene changes and visual enhancements that can improve viewer engagement.</result>
-    <postreq class="- topic/section task/postreq ">Continue to How to Export a Video for TikTok or Instagram.</postreq>
-  </taskbody>
-  <related-links class="- topic/related-links ">
-    <link href="Basic_Video_Editing_Concepts_for_Beginners.dita" class="- topic/link "/>
-    <link href="Understanding_the_CapCut_Editing_Workspace.dita" class="- topic/link "/>
-    <link href="How_to_Add_Text_Music_and_Audio_to_a_Video.dita" class="- topic/link "/>
-    <link href="How_to_Export_a_Video_for_TikTok_or_Instagram.dita" class="- topic/link "/>
-  </related-links>
-</task>
+  <shortdesc class="- topic/shortdesc ">Make your video more dynamic by adding transitions between clips and effects to individual elements.</shortdesc>
+  <body class="- topic/body ">
+    <section class="- topic/section ">
+      <title class="- topic/title ">Add Transitions</title>
+      <p class="- topic/p ">1. In the timeline, tap the area between two clips.</p>
+      <p class="- topic/p ">2. Tap "Transition" in the toolbar.</p>
+      <p class="- topic/p ">3. Choose a transition style and tap "Add."</p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Add Effects</title>
+      <p class="- topic/p ">1. Select a clip in the timeline.</p>
+      <p class="- topic/p ">2. Tap "Effects" in the toolbar.</p>
+      <p class="- topic/p ">3. Browse available effects and select one.</p>
+      <p class="- topic/p ">4. Adjust the duration and settings as needed.</p>
+    </section>
+  </body>
+</topic>
